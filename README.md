@@ -8,6 +8,6 @@ myinfo = {
 '出身地': '福島'
 }
 print(myinfo)
-```python
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6bdae2c4-bee9-4d05-88fd-971e8961efc3" />
 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6bdae2c4-bee9-4d05-88fd-971e8961efc3" />
+```python
