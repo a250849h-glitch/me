@@ -9,6 +9,6 @@ myinfo = {
 }
 print(myinfo)
 ```python
-![5B0C7B20-19F4-4DFA-96AE-2963AFE4F4F8_1_105_c](https://github.com/user-attachments/assets/d3f7c0d4-8743-4804-97f4-180dfc3831dd)
+![自分の写真](https://github.com/user-attachments/assets/d3f7c0d4-8743-4804-97f4-180dfc3831dd)
 
 
