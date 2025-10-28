@@ -9,6 +9,6 @@ myinfo = {
 }
 print(myinfo)
 
-https://github.com/a250849h-glitch/me/blob/main/D2B06074-81CB-4D36-B7FB-BC59BF37A281.heic
+![自分の写真](https://github.com/a250849h-glitch/me/blob/main/D2B06074-81CB-4D36-B7FB-BC59BF37A281.heic)
 
 
