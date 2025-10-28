@@ -6,3 +6,4 @@ myinfo = {
 '出身地': '福島'
 }
 print(myinfo)
+![alt text](5B0C7B20-19F4-4DFA-96AE-2963AFE4F4F8_1_105_c.jpeg)
