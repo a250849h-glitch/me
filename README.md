@@ -1,6 +1,6 @@
 #自己紹介ディクショナリー
 
-```python
+
 myinfo = {
 '名前': '椎名陽悠'
 '学籍番号': '1254810380',
@@ -8,7 +8,7 @@ myinfo = {
 '出身地': '福島'
 }
 print(myinfo)
-```python
-![自分の写真](https://github.com/user-attachments/assets/d3f7c0d4-8743-4804-97f4-180dfc3831dd)
+
+https://github.com/a250849h-glitch/me/blob/main/D2B06074-81CB-4D36-B7FB-BC59BF37A281.heic
 
 
