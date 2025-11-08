@@ -1,1 +1,57 @@
+# 🌋 Impact Visualization Challenge
+
+## 📘 概要
+USGSのライブ地震データを用いて、地震の発生状況と影響を視覚的に表現しました。  
+データの可視化を通して「Impact（衝撃・影響）」を感じられるよう工夫しています。
+
+---
+
+## 🧩 データについて
+- 出典: [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+- 使用データ: 過去7日間の地震発生情報（M1.0+）
+
+---
+
+## 🔍 可視化と分析内容
+1. **世界地図上での地震分布**
+   - 大きさ：マグニチュード
+   - 色：深さ（深いほど青）
+   - 時間軸アニメーションで発生の連鎖を表現
+
+2. **マグニチュード分布ヒストグラム**
+   - 小規模地震が圧倒的に多いことを直感的に示す
+
+3. **インパクトの表現**
+   - 各地域の地震エネルギー総量を算出してヒートマップ化  
+   - “どの地域が最も地震の影響を受けているか”を可視化
+
+---
+
+## 🧮 技術
+- Python（pandas, matplotlib, plotly, geopandas）
+- Jupyter Notebook
+- USGS GeoJSON API
+
+---
+
+## 📈 結果例
+![Earthquake Impact Map](./images/earthquake_map.png)
+
+---
+
+## 💡 考察
+地震は世界中で日常的に発生しているが、  
+マグニチュード分布や地域別頻度を見ると、  
+「特定地域への偏り」「深発地震の集中」などの特徴が見える。  
+これにより、自然現象の“見えないインパクト”を感じ取ることができた。
+
+---
+
+## 🧰 実行方法
+```bash
+# USGSデータを取得
+python src/fetch_usgs.py
+
+# 可視化
+python src/visualize.py
 
